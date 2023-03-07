@@ -1,0 +1,172 @@
+{
+    "seller": [
+      {
+        "name": "sorya",
+        "email": "soryarathore@gmail.com",
+        "password": "123@abc",
+        "id": 1
+      },
+      {
+        "name": "ravi",
+        "email": "ravi@gmail.com",
+        "password": "123@abc",
+        "id": 2
+      },
+      {
+        "name": "ravindra",
+        "email": "ravi@gmail.com",
+        "password": "123@abc",
+        "id": 3
+      },
+      {
+        "name": "soryarathore",
+        "password": "12345",
+        "email": "rathorehomi@gmail.com",
+        "id": 4
+      },
+      {
+        "name": "piter",
+        "password": "12345",
+        "email": "rathorehomi@gmail.com",
+        "id": 5
+      },
+      {
+        "name": "rinku",
+        "password": "12345",
+        "email": "rathorehomi@gmail.com",
+        "id": 6
+      },
+      {
+        "name": "rani",
+        "password": "12345",
+        "email": "rathorehomi@gmail.com",
+        "id": 7
+      },
+      {
+        "name": "raju",
+        "password": "12345",
+        "email": "rathorehomi@gmail.com",
+        "id": 8
+      },
+      {
+        "name": "rakesh",
+        "password": "12345",
+        "email": "rathorehomi@gmail.com",
+        "id": 9
+      },
+      {
+        "name": "ramu",
+        "password": "12345",
+        "email": "rathorehomi@gmail.com",
+        "id": 10
+      },
+      {
+        "name": "rakesh",
+        "password": "12345",
+        "email": "rathorehomi@gmail.com",
+        "id": 11
+      }
+    ],
+    "products": [
+      {
+        "name": "design",
+        "price": "1000",
+        "category": "design product",
+        "color": "Mixer",
+        "description": "this is awesome design products ",
+        "image": "https://images.unsplash.com/photo-1627163439097-373d08b797d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80",
+        "id": 1
+      },
+      {
+        "name": "Design",
+        "price": "1100",
+        "category": "Design Products",
+        "color": "Mixer",
+        "description": "If you like then you can buy this",
+        "image": "https://images.unsplash.com/photo-1622737133809-d95047b9e673?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+        "id": 2
+      },
+      {
+        "name": "Design",
+        "price": "1200",
+        "category": "design product",
+        "color": "Mixer",
+        "description": "this is also good product if you like then you can buy this",
+        "image": "https://images.unsplash.com/photo-1627163439134-7a8c47e08208?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+        "id": 3
+      },
+      {
+        "name": "Apple iPhone 11",
+        "price": "60000",
+        "category": "Mobile",
+        "color": "white",
+        "description": "The iPhone 11 display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle",
+        "image": "https://www.pngmart.com/files/15/Apple-iPhone-11-PNG-Image.png",
+        "id": 4
+      },
+      {
+        "name": "Apple iPhone 12 ",
+        "price": "80000",
+        "category": "Mobile",
+        "color": "Black",
+        "description": "The A14 chip in the iPhone 12 and 12 mini includes a faster and more powerful Image Signal Processor that enabled new camera functionality for 2020",
+        "image": "https://www.pngmart.com/files/15/Apple-iPhone-12-Transparent-Background.png",
+        "id": 5
+      },
+      {
+        "name": "Shoes",
+        "price": "500",
+        "category": "Shoes",
+        "color": "Brown",
+        "description": "Focus on Product Benefits and Features",
+        "image": "https://www.freepnglogos.com/uploads/shoes-png/shoes-photos-style-guru-fashion-glitz-glamour-27.png",
+        "id": 6
+      },
+      {
+        "name": "Earbirds",
+        "price": "500",
+        "category": "Earbirds",
+        "color": "white",
+        "description": "Apple Airpods It's Awesome Product in chepest Prize.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHbCDMasIu_YnjFCm9717iKcXcrTz5BBLLO7cEDOytcyeaUsGf&s",
+        "id": 7
+      },
+      {
+        "name": "Jeens",
+        "price": "400",
+        "category": "Cloths",
+        "color": "Blue",
+        "description": "Blue Jean, Mens Jean, Denim Jeans",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP7gOubHkURa_ThFFsCCkP3_TFODdoNclzCQvU80V0DOlyFK0&s",
+        "id": 8
+      },
+      {
+        "name": "Smart Watch",
+        "price": "600",
+        "category": "Apple Watch",
+        "color": "Black",
+        "description": "smartwatch, a small smartphonelike device worn on the wrist.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWs4_7NZCisFSP9ZzRdvFQR6spUB_XSRYnF5xPPLYNLmZ7YCkC&s",
+        "id": 9
+      }
+    ],
+    "users": [
+      {
+        "id": 1
+      },
+      {
+        "name": "sorya",
+        "email": "soryarathore@gmail.com",
+        "password": "123@abc",
+        "id": 2
+      },
+      {
+        "name": "jugnu",
+        "email": "surjeetkhalasi@gmail.com",
+        "password": "123@abc",
+        "id": 3
+      }
+    ],
+    "cart": [],
+    "orders": []
+  }
